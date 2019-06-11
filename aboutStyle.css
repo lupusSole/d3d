@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background-color: white;
+  color: #E1BEE7;
+}
+
+h1{
+  color: #7B1FA2;
+  font-size: 6rem;
+  padding-bottom: 50px;
+
+}
+h5{
+  color: #7B1FA2;
+}
+
+.media{
+  padding-bottom: 50px;
+}
+
+p{
+  padding-bottom: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.us{
+  padding-bottom: 50px;
+}
+
+.icon{
+  color: #7B1FA2;
+  padding-top: 100px;
+}

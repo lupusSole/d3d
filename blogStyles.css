@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  background-color: white;
+}
+
+h1{
+  color: #7B1FA2;
+  font-size: 6rem;
+
+}
+
+
+.learn{
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+.forum{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#footer {
+  text-align: center;
+  color: black;
+  padding-top: 100px;
+}
+
+.icon {
+  color: #7B1FA2;
+}
+
+.Copyright {
+  color: #7B1FA2;
+}

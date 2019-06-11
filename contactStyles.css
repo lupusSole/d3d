@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  background-color: black
+}
+
+h1{
+  color: white;
+  font-size: 6rem;
+  padding-bottom: 50px;
+
+}
+
+.contact{
+padding-left: 140px;
+padding-right: 140px;
+
+}
+.textInput{
+  padding-left: 140px;
+  padding-right: 140px;
+  padding-bottom: 100px;
+}
+
+.icon{
+  color: #7B1FA2;
+}
+
+.Copyright {
+  color: white;
+}

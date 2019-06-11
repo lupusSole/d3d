@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+  background-color:white;
+  color: black;
+}
+
+h1{
+  color: white;
+  font-size: 6rem;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+h2{
+  color: #7B1FA2;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 3rem;
+
+}
+p{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.bd-example{
+  padding-top: 75.0px;
+  padding-bottom: 50px;
+}
+
+.card-deck{
+  padding-top: 100px;
+  padding-bottom: 50px;
+  /* padding-left: 10px;
+  padding-right: 10px; */
+}
+
+.lastly{
+  padding-bottom: 50px;
+}
+
+.icon{
+  color: #7B1FA2;
+}
